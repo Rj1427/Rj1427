@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rj1427
+- 👀 I’m very much interested in programming and developing new things
+- 🌱 I’m currently learning Node and express.js
+- 📫 send email post in my gmail inbox here => rajeshpothunuri1235@gmail.com
