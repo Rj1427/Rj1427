@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rajesh P
 - 👀 I’m very much interested in programming and developing new things to minimize the manual efforts.
 - 🌱 I’m currently learning Node and express.js
-- 📫 send email post in my gmail inbox here => rajeshpothunuri1235@gmail.com
+- 📫 your email post in my inbox here => rajeshpothunuri1235@gmail.com
